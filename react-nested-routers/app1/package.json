@@ -14,15 +14,15 @@
     "email": "jherr@pobox.com"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.8",
+    "@babel/core": "7.20.2",
     "@babel/plugin-transform-runtime": "^7.15.8",
-    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-env": "7.20.2",
     "@babel/preset-react": "^7.14.5",
     "@babel/preset-typescript": "^7.10.4",
     "@types/react": "^18.0.13",
     "@types/react-dom": "^18.0.5",
     "autoprefixer": "^10.1.0",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "8.3.0",
     "css-loader": "^6.3.0",
     "html-webpack-plugin": "^5.3.2",
     "postcss": "^8.2.1",

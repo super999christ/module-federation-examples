@@ -12,9 +12,9 @@
     "vue": "^3.0.11"
   },
   "devDependencies": {
-    "@babel/core": "7.18.9",
+    "@babel/core": "7.20.2",
     "@vue/compiler-sfc": "3.2.37",
-    "babel-loader": "8.2.5",
+    "babel-loader": "8.3.0",
     "css-loader": "6.7.1",
     "file-loader": "6.2.0",
     "html-webpack-plugin": "5.5.0",
